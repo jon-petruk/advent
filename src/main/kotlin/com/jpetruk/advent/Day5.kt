@@ -17,7 +17,7 @@ class Day5: Day {
                 matcher.g
             }
         } */
-        return "fuck you elf"
+        return "hi elf"
     }
 
     fun extractAsArray(lines: List<String>) : Array<Array<Char>> {
